@@ -1,0 +1,14 @@
+{
+  "name": "@wsdot/mileposts",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "haversine": "^1.1.1"
+  }
+}
